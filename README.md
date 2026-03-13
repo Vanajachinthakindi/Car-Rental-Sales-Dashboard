@@ -11,7 +11,7 @@ The dashboard provides a **comprehensive view of sales, profit, rental patterns,
 
 # 📊 Dashboard Preview
 
-Dashboard looks like : 
+Dashboard looks like : https://github.com/Vanajachinthakindi/Car-Rental-Sales-Dashboard/blob/main/Screenshot%20of%20Dashboard.png
 
 ---
 
