@@ -120,6 +120,7 @@ Business takeaways:
     The company should invest more in online marketing and booking platforms.
     Improving fleet size or scheduling could increase accepted bookings.
     Weekend demand is lower than expected.Company could run weekend promotions.
+  
 
 # 👩‍💻 Author
 
